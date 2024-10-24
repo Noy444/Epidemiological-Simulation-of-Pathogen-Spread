@@ -29,7 +29,7 @@ The simulation produces the following outputs:
 
   ```matlab
   % Run the main function
-  main(params);
+  main(params)
 
 3. The output will generate three plots:
    - Infection status across the population.
